@@ -68,15 +68,6 @@ EV-Sales-Analysis/
 
 ---
 
-## Getting Started
-
-Follow these steps to run the project locally.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/ev-sales-analysis.git
-
 ## Analysis Workflow
 
 1. Data Inspection
