@@ -3,6 +3,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![NumPy](https://img.shields.io/badge/NumPy-Statistics-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
+
 ## Overview
 
 This project explores historical Electric Vehicle (EV) sales data using **Python**, **Pandas**, **NumPy**, and **Matplotlib**. The analysis investigates global EV adoption trends, compares leading markets, examines different powertrain technologies, and applies statistical techniques to uncover meaningful insights from the data.
@@ -142,13 +143,16 @@ The following visualizations were created to explore trends and patterns in the 
 * Data manipulation with Pandas
 * Exploratory Data Analysis (EDA)
 * Statistical analysis with NumPy
-* Data visualization using Matplotli
+* Data visualization using Matplotlib
+
+---
+
 ## Future Improvements
 
 * Develop an interactive dashboard using Plotly or Power BI.
-* Build predictive models to forecast future EV sales.
-* Incorporate additional datasets such as charging infrastructure and battery prices.
-* Expand the analysis to include other vehicle categories.
+* Build predictive models to forecast future EV sales trends.
+* Integrate additional datasets such as charging infrastructure and battery prices.
+* Extend analysis to include other vehicle categories (trucks, buses, etc.).
 
 ---
 
