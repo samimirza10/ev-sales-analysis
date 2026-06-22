@@ -1,5 +1,8 @@
 # Electric Vehicle Sales Analysis
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![NumPy](https://img.shields.io/badge/NumPy-Statistics-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
 ## Overview
 
 This project explores historical Electric Vehicle (EV) sales data using **Python**, **Pandas**, **NumPy**, and **Matplotlib**. The analysis investigates global EV adoption trends, compares leading markets, examines different powertrain technologies, and applies statistical techniques to uncover meaningful insights from the data.
@@ -32,13 +35,15 @@ The project was completed as part of my data analysis learning journey to streng
 
 ---
 
-## Technologies Used
+## Tech Stack
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Jupyter Notebook
+| Technology | Purpose |
+|------------|---------|
+| Python | Programming language |
+| Pandas | Data manipulation and analysis |
+| NumPy | Numerical and statistical analysis |
+| Matplotlib | Data visualization |
+| Jupyter Notebook | Interactive development environment |
 
 ---
 
@@ -62,17 +67,14 @@ EV-Sales-Analysis/
 
 ---
 
-## Analysis Performed
+## Analysis Workflow
 
-* Data inspection
-* Data cleaning
-* Exploratory Data Analysis (EDA)
-* Country-wise EV sales analysis
-* EV stock analysis
-* Market share analysis
-* Powertrain comparison
-* NumPy statistical analysis
-* Data visualization using Matplotlib
+1. Data Inspection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Statistical Analysis using NumPy
+5. Data Visualization
+6. Insight Generation
 
 ---
 
@@ -88,16 +90,49 @@ EV-Sales-Analysis/
 
 ## Visualizations
 
-The project includes several visualizations to support the analysis, including:
+The following visualizations were created to explore trends and patterns in the EV sales dataset.
 
-* Global EV sales trend
-* Top 10 countries by EV sales
-* Powertrain distribution
-* EV sales histogram
-* EV sales box plot
-* Country comparison (China, USA, Germany)
+---
 
-> *(You can replace this section with screenshots of your charts after uploading them to the `images/` folder.)*
+### Global EV Sales Trend
+
+![Global EV Sales Trend](images/ev_sales_global_trend.png)
+
+---
+
+### EV Sales Trend (Overall)
+
+![EV Sales Trend](images/ev_sales_trend.png)
+
+---
+
+### Top 10 Countries by EV Sales
+
+![Top Countries](images/ev_sales_top_countries.png)
+
+---
+
+### EV Powertrain Distribution
+
+![Powertrain Distribution](images/ev_powertrain_distribution.png)
+
+---
+
+### EV Sales Distribution (Histogram)
+
+![Sales Distribution](images/ev_sales_distribution.png)
+
+---
+
+### EV Sales Box Plot
+
+![Box Plot](images/ev_sales_boxplot.png)
+
+---
+
+### EV Sales Trend in China
+
+![China Trend](images/ev_sales_trend_china.png)
 
 ---
 
@@ -107,13 +142,7 @@ The project includes several visualizations to support the analysis, including:
 * Data manipulation with Pandas
 * Exploratory Data Analysis (EDA)
 * Statistical analysis with NumPy
-* Data visualization using Matplotlib
-* Insight generation
-* Technical documentation
-* GitHub project organization
-
----
-
+* Data visualization using Matplotli
 ## Future Improvements
 
 * Develop an interactive dashboard using Plotly or Power BI.
